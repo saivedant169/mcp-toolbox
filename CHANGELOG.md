@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/googleapis/mcp-toolbox/compare/v1.1.0...v1.1.1) (2026-04-14)
+
+
+### Bug Fixes
+
+* **tools/looker:** Fix OAuth for Converational Analytics ([#3044](https://github.com/googleapis/mcp-toolbox/issues/3044)) ([f9e3e55](https://github.com/googleapis/mcp-toolbox/commit/f9e3e55d42ae9f5d1ecbda4fb7c9a4f3d42451b1))
+
 ## [1.1.0](https://github.com/googleapis/mcp-toolbox/compare/v1.0.0...v1.1.0) (2026-04-13)
 
 
